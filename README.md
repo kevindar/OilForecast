@@ -1,6 +1,6 @@
 # OilForecast
 
-Collaboration project of group 8
+Collaboration project of group 8 Computer Engineering
 
  1. Kevin Darmawan (1806148744)  
  2. Muhammad Alfi A (1806200015)  
